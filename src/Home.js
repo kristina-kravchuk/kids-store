@@ -2,9 +2,10 @@ import { useState } from "react";
 import { data } from "./data";
 import ButtonsHolliday from './ButtonsHolliday';
 import HollidayCollection from './HolidayCollection';
+import InfantsButtons from "./InfantsButtons";
 
 
-function App() {
+function Home() {
 
   const [clothes, setClothes] = useState(data);
 
@@ -25,4 +26,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

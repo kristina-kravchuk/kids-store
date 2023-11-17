@@ -1,3 +1,4 @@
+
 .container{ 
 
     display: flex;
@@ -33,4 +34,16 @@ button{
 background-color: #E84A5F;
 border: solid black 1px;
 margin: 10px;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.link{
+  padding: 5px 20px;
+  color:  #31AA75;
+  text-shadow: #31AA75;
+  font-size: 20px;
+  font-style: italic;
 }

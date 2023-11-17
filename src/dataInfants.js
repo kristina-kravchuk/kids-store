@@ -23,7 +23,7 @@ export const dataInfants=[
     {
         id:4,
         name: "Baby Boy Sleevless Romper",
-        searchTerm: "BoyRomper",
+        searchTerm: "filteredInfants",
         price:"$8.99",
         image: "https://dw4gwhhv7uqc1.cloudfront.net/catalog/Seller_5057/62860cd06e23c.jpg"
     }, 
@@ -32,7 +32,7 @@ export const dataInfants=[
         name: "Baby Boy Sleevless Romper",
         searchTerm: "BoyRomper",
         price:"$8.99",
-        image: "https://th.bing.com/th/id/OIP.BlUytpUkn53jk_NbGj1yCgAAAA?pid=ImgDet&rs=1"
+        image: "https://ae01.alicdn.com/kf/HTB1TbTYQFXXXXbOXFXXq6xXFXXXL/Cotton-Newborn-Baby-Boy-Clothes-Sleeveless-Romper-Jumpsuit-Playsuit-Striped-Outfit-Clothing-Boys-Summer-0-24M.jpg"
     }, 
     {
         id:6,
